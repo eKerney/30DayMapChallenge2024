@@ -4,7 +4,7 @@ Daily social mapping project happening every November
 Create maps based around differing themes each day in November and share with #30DayMapChallenge   
 
 <p float="left">
-  <img src="images/30DayMap.svg" width="200">
+  <img src="images/30DayMap2024.png" width="300">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </p>
 
