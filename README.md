@@ -6,6 +6,7 @@ Create maps based around differing themes each day in November and share with #3
 <p float="left">
   <img src="images/30DayMap2024.png" width="300">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="images/30dmc_2024.png" width="400">
 </p>
 
 This year I have decided to focus on a few key technologies/tools:
