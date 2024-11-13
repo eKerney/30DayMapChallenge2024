@@ -7,12 +7,18 @@ Create maps based around differing themes each day in November and share with #3
 
 
 
+
+
+
+
 <p float="left">
   <img src="images/30DayMap2024.png" width="200" alt="30D Day Map Challenge 2024 Logo">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="images/30dmc_2024.png" width="400" alt="30D Day Map Challenge 2024 Daily Themes">
 </p>
 Logos/Info courtesy of https://github.com/tjukanovt     
+
+
 
 
 ---
@@ -24,3 +30,10 @@ Logos/Info courtesy of https://github.com/tjukanovt
 - [GeoParquet](https://geoparquet.org/)
 - [Overture Maps Data](https://overturemaps.org/)
 - [Lonboard](https://github.com/developmentseed/lonboard)
+
+---
+
+## My 2024 Map/Projects
+- [Day1 Points - USGS Stream Gage Status](../DayThemes/Day1Polints.md)
+
+
