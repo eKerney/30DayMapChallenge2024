@@ -34,6 +34,6 @@ Logos/Info courtesy of https://github.com/tjukanovt
 ---
 
 ## My 2024 Map/Projects
-- [Day1 Points - USGS Stream Gage Status](../DayThemes/Day1Polints.md)
+- [Day1 Points - USGS Stream Gage Status](../main/DayThemes/Day1Points.md)
 
 
