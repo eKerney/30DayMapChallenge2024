@@ -1,13 +1,18 @@
 # Day2Lines
-### #[30DayMapChallenge2024](https://30daymapchallenge.com/) - #Day2Lines
-<p float="left">
-  <img src="../images/Day2Lines.png" width="800" alt="Day2 Lines from NOAA Climographs">
-</p>
-NOAA airport weather stations 
-Lines shown on dynamic hashtag#climographs
+### [#30DayMapChallenge2024](https://30daymapchallenge.com/) - #Day2Lines
 
+<p float="left">
+  <img src="../images/Day2Lines.png" width="480" alt="Day2 Lines from NOAA Climographs">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="../images/DTW_Climograph.png" width="480" alt="Custom Climographs plot in matplotlib">
+</p>
+
+NOAA airport weather stations 
+Lines shown on dynamic [climographs](https://www.climate.gov/maps-data/dataset/1991-2020-climate-normals-climographs)
+
+   
 DATA
-> NOAA Climate Data API v2 - https://lnkd.in/eKANegjt
+> NOAA Climate Data API v2 - https://www.ncdc.noaa.gov/cdo-web/webservices/v2
 
 STACK   
 > DeckGL - React - Mapbox
