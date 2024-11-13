@@ -11,6 +11,14 @@ Create maps based around differing themes each day in November and share with #3
 
 
 
+
+
+
+
+
+
+
+
 <p float="left">
   <img src="images/30DayMap2024.png" width="200" alt="30D Day Map Challenge 2024 Logo">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -21,7 +29,13 @@ Logos/Info courtesy of https://github.com/tjukanovt
 
 
 
+
+
+
+
 ---
+
+
 
 
 ### Key tech/tools for 2024:
@@ -31,9 +45,11 @@ Logos/Info courtesy of https://github.com/tjukanovt
 - [Overture Maps Data](https://overturemaps.org/)
 - [Lonboard](https://github.com/developmentseed/lonboard)
 
+
 ---
+
 
 ## My 2024 Map/Projects
 - [Day1 Points - USGS Stream Gage Status](../main/DayThemes/Day1Points.md)
-
-
+- [Day2 Lines - NOAA Weather Station Climographs](../main/DayThemes/Day2Lines.md)
+- [Day9 AI Only - Local/web/cloud AI map experiments](../main/DayThemes/Day9AIonly.md)
